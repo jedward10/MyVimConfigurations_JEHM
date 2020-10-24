@@ -1,15 +1,15 @@
 # MyVimConfigurations_JEHM
 Configuración Vim/NeoVim para Windows y Unix
 
-## Configuracion
+## Configuración
 
-### Archivos
-  - vimrc.vim
-  - init .vim
-  - maps.vim
-  - plugin-config.vi
-  - plugins.vim
-### Rutas de Configuración
+### - Archivos
+        - vimrc.vim
+        - init .vim
+        - maps.vim
+        - plugin-config.vi
+      - plugins.vim
+### - Rutas de Configuración
 
 #### ~Home$/User
 Contiene el archivo vimrc.vim
