@@ -2,13 +2,13 @@
 Configuración Vim/NeoVim para Windows y Unix
 
 ## Configuracion
-- 1. Archivos
+1. Archivos
   - vimrc.vim
-  - init.vim
+  - init .vim
   - maps.vim
   - plugin-config.vi
   - plugins.vim
-- 2. Rutas de Configuración
+2. Rutas de Configuración
 
 ### ~Home$/User
 Contiene el archivo vimrc.vim
