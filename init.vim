@@ -10,14 +10,14 @@ syntax on
 
 " Configuracion Visual
 set number                    " Muestra el numero de linea
-set relativenumber		" Muestra el numero de linea relativa
+set relativenumber            " Muestra el numero de linea relativa
 set numberwidth=1             " Tamaño de los numeros (ancho)
 
 " Configuracion Mouse
-set mouse=a				" Permite usar el mouse dentro de los archivos
+set mouse=a             " Permite usar el mouse dentro de los archivos
       
 " Portapapeles
-set clipboard=unnamed		" Permite compartir el portapales dentro y fuera de Vim
+set clipboard=unnamed   " Permite compartir el portapales dentro y fuera de Vim
 
 " Manejo de asentos y tildes
 set encoding=utf-8
