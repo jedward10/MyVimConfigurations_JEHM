@@ -9,12 +9,12 @@ syntax enable
 syntax on
 
 " Configuracion Visual
-set number					    " Muestra el numero de linea
-set relativenumber			" Muestra el numero de linea relativa
-set numberwidth=1       " Tamaño de los numeros (ancho)
+set number                    " Muestra el numero de linea
+set relativenumber		" Muestra el numero de linea relativa
+set numberwidth=1             " Tamaño de los numeros (ancho)
 
 " Configuracion Mouse
-set mouse=a					" Permite usar el mouse dentro de los archivos
+set mouse=a				" Permite usar el mouse dentro de los archivos
       
 " Portapapeles
 set clipboard=unnamed		" Permite compartir el portapales dentro y fuera de Vim
@@ -25,8 +25,8 @@ set encoding=utf-8
 " Tabuladores
 set shiftwidth=2
 set tabstop=2      	" Tamaño del tabulado
-set expandtab				" Cada linea nueva conserva la tabulacion
-set autoindent			" Cada linea nueva conserva la tabulacion
+set expandtab		" Cada linea nueva conserva la tabulacion
+set autoindent		" Cada linea nueva conserva la tabulacion
 set sw=2
 filetype plugin indent on   " La identacion de activa con la tecla > y <
           
@@ -35,8 +35,8 @@ set showcmd   " Muestra los comando ejecutados
 set ruler     " Muesta la niea Inferior
 set cursorline
 
-set noshowmode     " Muesta el modo (Insertar, Visualizar, Normal)
-set showmatch       " Resalta los parentesis de inicio y Fin
+set noshowmode    " Muesta el modo (Insertar, Visualizar, Normal)
+set showmatch     " Resalta los parentesis de inicio y Fin
 set signcolumn=yes
 set laststatus=2
 
